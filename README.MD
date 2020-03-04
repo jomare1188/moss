@@ -1,2 +1,2 @@
 # moss
-**Modelado matematico de la dinamica de crecimiento del musgo _Polytrichum juniperinum_ en suspension bajo diferentes condiciones troficas**
+**Mathematical modelling of the grwoth dynamics of  _Polytrichum juniperinum_ under differente throphic conditions**
